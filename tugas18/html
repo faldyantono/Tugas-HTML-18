@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Tugas HTML NIOMIC</title>
+  </head>
+  <body>
+    <h1>Tugas Input Element (date)</h1>
+    <p>Date :<input type="date" name="" value=""></p>
+    <p>Datetime : <input type="datetime" name="" value=""></p>
+    <p>Datetime-local : <input type="datetime-local" name="" value=""></p>
+    <p>time :<input type="time" name="" value=""></p>
+    <p>month :<input type="month" name="" value=""></p>
+    <p>week :<input type="week" name="" value=""></p>
+  </body>
+</html>
